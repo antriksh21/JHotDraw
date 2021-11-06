@@ -102,3 +102,7 @@
     </plugins>
   </reporting>
 </project>
+<properties>
+  <sonar.organization>antriksh21</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
